@@ -1,0 +1,33 @@
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+body {
+    background-image: url("F:\\git\\trabalhos\\trab1\\img_gif\\fundo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.caixa {
+  width:  800px;
+  height: 500px;
+  background-color: rgb(0, 89, 255);
+  border: 5px solid rgb(0, 0, 0);
+  padding: 15px;
+  margin: 20px auto;
+  text-align: center;
+  align-items: center;
+  
+}
+
+.but {
+
+    width: 80px;
+    height: 35px;
+    text-align: center;
+    border: 2px solid black;
+    margin-bottom: 1%;
+}
